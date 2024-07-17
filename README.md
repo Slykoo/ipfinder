@@ -4,4 +4,4 @@
 
 3 - Lancer le start.bat
 
-4 - Mettez le nom de la personne que vous recherchez
+4 - Mettez le nom de la personne que vous voulez rechercher
